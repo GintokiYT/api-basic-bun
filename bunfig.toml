@@ -1,0 +1,3 @@
+[target]
+outdir = "dist"
+entry = "src/app.ts"
